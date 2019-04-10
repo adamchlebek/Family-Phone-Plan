@@ -1,0 +1,12 @@
+C:\Users\adamc\source\repos\Cell Phone Plan\bin\Debug\Cell Phone Plan.exe.config
+C:\Users\adamc\source\repos\Cell Phone Plan\bin\Debug\Cell Phone Plan.exe
+C:\Users\adamc\source\repos\Cell Phone Plan\bin\Debug\Cell Phone Plan.pdb
+C:\Users\adamc\source\repos\Cell Phone Plan\bin\Debug\Cell Phone Plan.xml
+C:\Users\adamc\source\repos\Cell Phone Plan\obj\Debug\Cell Phone Plan.vbprojAssemblyReference.cache
+C:\Users\adamc\source\repos\Cell Phone Plan\obj\Debug\Cell_Phone_Plan.Home.resources
+C:\Users\adamc\source\repos\Cell Phone Plan\obj\Debug\Cell_Phone_Plan.Resources.resources
+C:\Users\adamc\source\repos\Cell Phone Plan\obj\Debug\Cell Phone Plan.vbproj.GenerateResource.cache
+C:\Users\adamc\source\repos\Cell Phone Plan\obj\Debug\Cell Phone Plan.vbproj.CoreCompileInputs.cache
+C:\Users\adamc\source\repos\Cell Phone Plan\obj\Debug\Cell Phone Plan.exe
+C:\Users\adamc\source\repos\Cell Phone Plan\obj\Debug\Cell Phone Plan.xml
+C:\Users\adamc\source\repos\Cell Phone Plan\obj\Debug\Cell Phone Plan.pdb
